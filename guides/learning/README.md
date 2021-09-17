@@ -6,7 +6,7 @@ Learning & Mentoring is a core value at Made Tech and we strive to continuosly l
 
 ## What resources are available to develop myself
 
-All team members have 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
+All team members have up to 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
 
 * Find out [how to book learning time](booking_learning_time.md) 
 
