@@ -16,21 +16,49 @@ looking for more responsibilities.
  - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
  - [Principal Technologist](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
 
-You may have also seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
+You may have seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
+
+We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, recruitment platforms and social media to find people with specific experience in these areas. These roles do not reflect our internal structure as we have a single software engineer pathway. Our software engineers can stay broad or choose to specialise in a number of technologies and areas of expertise.
 
 ### Delivery
 
-- [Delivery Manager](delivery_manager.md)
-- Senior Delivery Manager
-- [Delivery Principal](delivery_principal.md)
-- [Head of Delivery](head_of_delivery.md)
+- Team Assistant [(SFIA Level 2)](sfia/junior_delivery_manager.md)
+- Junior Delivery Manager [(SFIA Level 3)](sfia/junior_delivery_manager.md)
+- [Delivery Manager](delivery_manager.md) [(SFIA Level 4)](sfia/delivery_manager.md)
+- Senior Delivery Manager [(SFIA Level 5)](sfia/senior_delivery_manager.md)
+- [Delivery Principal](delivery_principal.md) (SFIA Level 6)
+
+### Product & Business Analysis
+
+#### Product
+
+- [Lead Product Manager](lead_product_manager.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+- [Senior Product Manager](senior_product_manager.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+- [Product Manager](product_manager.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+
+#### Business Analysis
+
+- [Lead Business Analyst](lead_business_analyst.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+- [Senior Business Analyst](senior_business_analyst.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+- [Business Analyst](business_analyst.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
 
 ### User-Centred Design
 
+#### User Research
+
 - [User Researcher](user_researcher.md) (SFIA Level 3)
-- [Designer](designer.md) (SFIA Level 3)
+- [Senior User Researcher](senior_user_researcher.md) (SFIA Level 4)
 - [Lead User Researcher](lead_user_researcher.md) (SFIA Level 5)
+
+#### Designer
+
+- [Designer](designer.md) (SFIA Level 3)
+- [Senior Designer](senior_designer.md) (SFIA Level 4)
 - [Lead Designer](lead_designer.md) (SFIA Level 5)
+
+#### UCD Principal / Head of Design
+
+- [UCD Principal](ucd_principal.md) (SFIA Level 6)
 
 ### Operations and Finance
 

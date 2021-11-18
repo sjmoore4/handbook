@@ -68,7 +68,7 @@ Compensating you fairly:
 #### Team
 
 * [Team Norms](team-norms)
-* [Learning & Learn Tech](guides/learning)
+* [Learning](guides/learning)
 * [Mentorship](guides/mentorship)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [3rd Party Expenses](guides/3rd_party_services.md)
@@ -93,6 +93,7 @@ Compensating you fairly:
 #### IT
 
 * [Software Licenses](guides/it/software_licenses.md)
+* [Laptop Security](guides/it/laptop_security.md)
 
 #### Security
 
@@ -103,3 +104,9 @@ Compensating you fairly:
 * [Last Day](guides/security/last_day.md)
 * [Office Visitors](guides/security/office_visitors.md)
 * [Password Policy](guides/security/password_policy.md)
+
+#### Policies
+
+* [Anti-Corruption and Bribery Policy](guides/policy/anti_corruption_and_bribery_policy.md)
+* [Whistleblowing Policy](guides/policy/whistleblowing_policy.md)
+* [Anti-Slavery and Human Trafficking Policy](guides/policy/anti_slavery_and_human_trafficking_policy.md)

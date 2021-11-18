@@ -1,4 +1,4 @@
-# Pension Scheme
+ # Pension Scheme
 
 We provide a pension scheme inline with the UK Government's rollout of automatic enrolment. We automatically enrol everyone in our pension scheme after their probation period (usually 3 months).
 
@@ -12,7 +12,9 @@ We provide a pension scheme inline with the UK Government's rollout of automatic
 
 As your employer we will contribute towards your pension alongside your own contribution. 
 
-From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%**—a total minimum contribution equivalent to **8%** of your salary. 
+From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%** — a total minimum contribution equivalent to **8%** overall. Contributions are capped on qualifying earnings in line with [The Pension Regulator thresholds](https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/9-knowing-your-clients-ongoing-duties/automatic-enrolment-earnings-threshold). Any earnings outside of these thresholds (Earnings between Lower Level and Upper Level) will not attract pension contributions. 
+
+Each employee in addition to their salary receives a flexible benefits allowance of 3.66% of their annual salary of which can be distributed across benefits including increased pension contributions.
 
 You can choose to increase your pension contribution sooner. You can do this by speaking with our finance department on finance@madetech.com.
 
@@ -32,4 +34,9 @@ It's important to be aware that any additional tax rebate will be paid back to y
 
 ## Topping up your pension
 
-In late May Made Tech will be rolling out an individual flexible benefits allowance which employees can distribute across a range of benefits including pensions and a health care cash plan. Updates leading up to the launch of this initiative will be shared in the announcement slack channel and via email. 
+On May 17th 2021 Made Tech rolled out an individual flexible benefits allowance which employees can distribute across a range of benefits including pensions and a health care cash plan. To top up your pension with your benefits allowance please follow these steps.
+
+1. Go to madetechbenefitsbox.com
+2. Log in
+3. Select Pension on the homepage
+4. Here you will find options which will allow you to choose a pension contribution amount which will be transfered from your benefits allowance.
