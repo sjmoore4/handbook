@@ -28,8 +28,20 @@ function checkFile (fileName) {
         { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
         { pattern: /udemy.com/ }               // udemy returns 403 status to circle ci hosts
       ]
+      
+      const httpHeaders = [
+        {
+            urls: [
+                "https://",
+                "http://"
+            ],
+            headers: {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0"
+            }
+        }
+      ],
 
-      markdownLinkCheck(md, { baseUrl, ignorePatterns, retryOn429: true, fallbackRetryDelay: "10s" }, (err, results) => {
+      markdownLinkCheck(md, { baseUrl, ignorePatterns, httpHeaders, retryOn429: true, fallbackRetryDelay: "10s" }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
