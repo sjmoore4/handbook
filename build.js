@@ -29,7 +29,7 @@ function checkFile (fileName) {
         { pattern: /udemy.com/ }               // udemy returns 403 status to circle ci hosts
       ]
 
-      markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
+      markdownLinkCheck(md, { baseUrl, ignorePatterns, retryOn429: true, fallbackRetryDelay: "10s" }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
