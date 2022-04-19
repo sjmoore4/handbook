@@ -2,9 +2,7 @@
 
 Post- March 2020 most of us are now spending some or all of our working weeks at home or otherwise working remotely.
 
-Where practical and safe, we encourage you to borrow equipment such as monitors, keyboards, and chairs from a Made Tech office to enable you to more effectively work at home. Made Tech will cover the cost of getting this equipment home.
-
-Where this isn't possible, you may spend up to a total of £250 to purchase equipment to enable you to work effectively at home.
+You may spend up to a total of £250 to purchase equipment to enable you to work effectively at home.
 
 Some examples of things you may purchase:
 - Monitor
