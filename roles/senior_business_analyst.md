@@ -1,21 +1,28 @@
 # Senior Business Analyst
 
-Senior Business Analysts ensure products and services deliver measurable value, through exploration, elicitation, and analysis of:
+Senior Business Analysts help teams deliver products and services that bring value to their users through:
 
-- **user needs**
-- **organisational needs**
-- **service needs**
+- Identifying business problems and opportunities
+- Conducting research to understand the public sector domain, people, organisation, processes and technology
+Explore, elicit and analyse business and user needs
+- Identify areas for improvement and explore feasibility of options
+- Understand any business and policy constraints that need to be considered, and assess the implications
+
 
 # Key responsibilities
 
 ## Scope
 
-Senior Business Analysts:
+A senior business analyst has a good understanding of strategic levels of analysis and typical leads on larger or more complex projects.
+At this role level, you will:
 
-- lead large or more complex projects
-- are responsible for inducting team members, line managing up to three Business Analysts and partake in the interview process
-- are effective decision makers
-- engage, initiate and lead work within the community of practice, coaching and mentoring others
+- Investigates operational requirements, problems, and opportunities, seeking effective business solutions through improvements in automated and non-automated components of new or changed processes. 
+- Assists in the analysis of stakeholder objectives, and the underlying issues arising from investigations into business requirements and problems, and identifies options for consideration. 
+- Work with stakeholders, to identify potential benefits and available options for consideration, and in defining acceptance tests.
+- Contributes to selection of the business analysis methods, tools and techniques for projects; selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.
+
+Senior Business Analysts should expect to work more autonomously and may often be the only business analyst on an assigned project.
+
 
 ## Competencies
 
@@ -25,19 +32,18 @@ Senior Business Analysts display [Made Tech’s values](https://github.com/madet
 
 Applies the following practices as a Senior Business Analyst, within an engagement:
 
-- highly autonomous approach
-- identifies the best business analysis methods and tools for the project
-- applies critical thinking to root cause analysis
-- applies agile principles to enable best practice and realisation of value
-- investigates, analyses, and communicates operational needs and problems
-- identifies service and process improvement opportunities
-- requirements management
-- business process analysis
-- stakeholder management at various levels
-- embedding within hybrid teams as a consultant
-- applies a deeper understanding of enterprise and business architecture
-- working with Government Digital Service standards
-- mentoring and supporting the development of less experienced team members
+- Agile working, identify and compare the best processes, evaluate outcomes, help teams manage and prioritise work.
+- Business analysis, advise on identifying, analysing and communicating complex business problems, inform decision making and recommend solutions that align with goals and objectives.
+- Business modelling, lead the modelling of processes, systems and data across a project or programme.
+- Business process improvement, identify and lead the implementation of process and business changes to improve operations and services, assess feasibility and recommend new approaches.
+- Business process testing, lead the evaluation of business process tests and usability within a project or programme.
+- Methods and tools, build capability in methods and tools and ensure they are consistently adopted and used effectively.
+- Requirements definition and management, advise on requirements management, define the most appropriate methods and co-ordinate prioritisation.
+- Stakeholder relationship management, lead stakeholder communication, build relationships and resolve conflicts
+- Systems analysis, lead the identification and analysis of IT system capabilities, and design system and user interfaces. 
+- Testing (business analysis), recommend the value of testing, advise on business scenarios and review testing outcomes.
+- User experience analysis, advise on user experience needs, recommend analysis techniques and articulate how they affect system design.
+
 
 ## Community of Practice (CoP)
 
@@ -59,7 +65,7 @@ Senior Business Analysts collaborate with Lead Business Analysts to provide feed
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the [Benefits & Perks](https://github.com/madetech/handbook/tree/350005eb3769ef05338461af6413e4553aee54b2/benefits) section to see what we can offer you.
 
 ## Salary and location
 
